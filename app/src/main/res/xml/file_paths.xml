@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Camera output directory inside the app's private files -->
+    <files-path
+        name="camera_files"
+        path="camera/" />
+    <!-- Cache fallback for temporary camera captures -->
+    <cache-path
+        name="camera_cache"
+        path="camera/" />
+</paths>
