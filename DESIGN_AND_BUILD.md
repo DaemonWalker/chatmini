@@ -219,7 +219,7 @@ app/src/main/jniLibs/arm64-v8a/libmihomo.so
 app/src/main/jniLibs/x86_64/libmihomo.so
 ```
 
-> `vX.XX.X` 为具体版本号。不要下载带 `cgo`、`compatible`、`go120`、`go122` 等后缀的版本，除非你知道它们的区别。
+> `vX.XX.X` 为具体版本号。不要下载带 `cgo`、`compatible`、`go120`、`go122` 等后缀的版本，除非明确知道其区别。
 
 ### 6.2 配置本地环境
 
